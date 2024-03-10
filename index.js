@@ -30,7 +30,7 @@ fileUpload.addEventListener("change", function (e) {
 });
 
 async function detect(img) {
-    status.textContent = "Analysing...";
+    status.textContent = "Analyzing...";
     const output = await detector(img.src, {
         threshold: 0.5,
         percentage: true,

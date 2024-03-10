@@ -1,6 +1,7 @@
 html,
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
 }
 
 .container {
@@ -54,4 +55,13 @@ body {
   margin-top: -16px;
   margin-left: -2px;
   padding: 1px;
+}
+
+.header-div {
+  text-align: center;
+}
+
+p1 {
+  font-size: 20px;
+  text-align: center;
 }
