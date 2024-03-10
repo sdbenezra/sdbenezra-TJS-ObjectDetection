@@ -4,6 +4,8 @@ This is a Vanilla JS demo project using the [Transformers.js](https://huggingfac
 
 The project is simple consisting of only HTML, CSS, and Javascript. I began with the starting code and tutorials found [here](https://huggingface.co/docs/transformers.js/en/tutorials/vanilla-js).
 
+View the site running [HERE](https://sdbenezra.github.io/sdbenezra-TJS-ObjectDetection/).
+
 
 ## Running the code
 
